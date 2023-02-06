@@ -47,7 +47,7 @@
 
 <div id="statistics_competitions_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://www.codewars.com/users/talha-yazar" target="_blank">
-        <img src="https://www.codewars.com/users/talha-yazar/badges/micro" alt="Codewars" />
+        <img src="https://www.codewars.com/users/AlpTalhaYazar/badges/large" alt="Codewars" />
     </a>
 </div>
 
