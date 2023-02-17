@@ -34,19 +34,19 @@
   <br>
   <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talha-yazar&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpTalhaYazar&show_icons=true&theme=radical)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talha-yazar&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlpTalhaYazar&layout=compact&theme=tokyonight)
 
 <br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=talha-yazar&style=flat-square&color=blueviolet" alt="talha-yazar" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AlpTalhaYazar&style=flat-square&color=blueviolet" alt="AlpTalhaYazar" /></p>
 
 <br>
 
 <br>
 
 <div id="statistics_competitions_block_id" align="center" style="align-content: center; text-align:center;">
-    <a href="https://www.codewars.com/users/talha-yazar" target="_blank">
+    <a href="https://www.codewars.com/users/AlpTalhaYazar" target="_blank">
         <img src="https://www.codewars.com/users/AlpTalhaYazar/badges/large" alt="Codewars" />
     </a>
 </div>
