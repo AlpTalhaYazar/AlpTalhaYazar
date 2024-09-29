@@ -112,13 +112,13 @@
 
 <p>
   <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=alptalhayazar&show_icons=true&locale=en&layout=compact"
+       src="https://github-readme-stats-alptalhayazars-projects.vercel.app/api/top-langs?username=alptalhayazar&show_icons=true&locale=en&layout=compact&count_private=true"
        alt="alptalhayazar"/>
 </p>
 
 <p>&nbsp;
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=alptalhayazar&show_icons=true&locale=en"
+       src="https://github-readme-stats-alptalhayazars-projects.vercel.app/api?username=alptalhayazar&show_icons=true&locale=en&count_private=true"
        alt="alptalhayazar"/>
 </p>
 
