@@ -123,5 +123,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alptalhayazar&" alt="alptalhayazar"/>
+  
+  [![GitHub Streak](https://github-readme-streak-stats-eight-black.vercel.app?user=AlpTalhaYazar&theme=ayu-light&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  
 </p>
