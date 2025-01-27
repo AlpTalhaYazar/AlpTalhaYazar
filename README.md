@@ -86,12 +86,12 @@
 ### 📈 GitHub Stats
 
 <p align="center" position="relative">
-  <img width="48%" src="https://github-readme-stats-alptalhayazars-projects.vercel.app/api?username=alptalhayazar&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats-eight-black.vercel.app?user=AlpTalhaYazar&theme=radical&border_radius=10&count_private=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
+  <img width="46.5%" src="https://github-readme-stats-alptalhayazars-projects.vercel.app/api?username=alptalhayazar&show_icons=true&theme=radical&border_radius=10&count_private=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats-eight-black.vercel.app?user=AlpTalhaYazar&theme=radical&border_radius=10&count_private=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-alptalhayazars-projects.vercel.app/api/top-langs?username=alptalhayazar&layout=compact&theme=radical&langs_count=6&count_private=true" />
+  <img src="https://github-readme-stats-alptalhayazars-projects.vercel.app/api/top-langs?username=alptalhayazar&layout=compact&theme=radical&border_radius=10&langs_count=6&count_private=true" />
 </p>
 
 <p align="center">
